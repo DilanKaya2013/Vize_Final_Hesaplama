@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\vize-Final Hesaplama\vize-Final Hesaplama\obj\Debug\vize-Final Hesaplama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\vize-Final Hesaplama\vize-Final Hesaplama\obj\Debug\vize-Final Hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\vize-Final Hesaplama\vize-Final Hesaplama\obj\Debug\vize_Final_Hesaplama.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\vize-Final Hesaplama\vize-Final Hesaplama\obj\Debug\vize_Final_Hesaplama.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\vize-Final Hesaplama\vize-Final Hesaplama\obj\Debug\vize-Final Hesaplama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\vize-Final Hesaplama\vize-Final Hesaplama\obj\Debug\vize-Final Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\vize-Final Hesaplama\vize-Final Hesaplama\bin\Debug\vize-Final Hesaplama.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\vize-Final Hesaplama\vize-Final Hesaplama\bin\Debug\vize-Final Hesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\vize-Final Hesaplama\vize-Final Hesaplama\bin\Debug\vize-Final Hesaplama.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\vize-Final Hesaplama\vize-Final Hesaplama\obj\Debug\vize-Final Hesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\vize-Final Hesaplama\vize-Final Hesaplama\obj\Debug\vize-Final Hesaplama.pdb
